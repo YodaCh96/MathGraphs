@@ -2,13 +2,19 @@
 
 # MathGraphs
 
+<img src="images/MathGraphs.PNG" alt="MathGraphs" width="700" height="350"/>
+
 ## Zieldefinition
 
 |Ziel|Soll/Muss|
 |:-|:-:|
 |Ein GUI das Input entgegennehmen kann|Muss|
-|Error Handling – Überprüfen der eingegebenen Parameter|Muss|
-|GUI: Die Skalierung soll manuell angepasst werden können|Soll|
-|GUI: Dynamische Anpassung des GUIs anhand Selektion im Dropdown|Soll|
-|Mathematische Funktionen: Quadratisch, trigonometrisch, linear, logarithmisch|Muss|
-|Umsetzen von weiteren mathematischen Funktionen (z.B. Flächenberechnung)|Soll|
+|Fehlerbehandlung – Überprüfen der eingegebenen Parameter|Muss|
+|Das GUI soll eine skalierbare Ansicht der Graphen ermöglichen|Soll|
+|Das GUI soll sich dynamisch, anhand der mathematischen Funktionen, anpassen können|Soll|
+|Umsetzen folgender mathematischer Funktionen: Polynom, Exponential, Trigonometrisch|Muss|
+|Umsetzen weiterer mathematischer Funktionen: z.B. Determinanten|Soll|
+
+**Abgrenzung**: 
+
+- Nur die reelle Zahlenebene, keine komplexen Zahlen
