@@ -18,3 +18,11 @@
 **Abgrenzung**: 
 
 - Nur die reelle Zahlenebene, keine komplexen Zahlen
+
+## Contributing
+
+This is a learning project for me. Please feel free to fork this repo. Pull request to submit more programs.
+
+## Feedback
+
+If you find any bug or have any suggestion, please do file issues. I am graceful for any feedback and will do my best to improve this package.
